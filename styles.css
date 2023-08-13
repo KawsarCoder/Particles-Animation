@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 50%;
+  margin-left: 25%;
+  position: absolute;
+}
